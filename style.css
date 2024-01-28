@@ -30,6 +30,20 @@ body{
     color: #fff;
 }
 
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
+
+#contact button{
+        background-color: #005f6b;
+        color: #fff;
+}
+
 footer{
     background-color: #005f6b;
 }
