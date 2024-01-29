@@ -31,4 +31,4 @@ abrir index.html
 
 - [] Trocar os textos randomicos
 - [x] Adicionar estilo aos produtos
-- [] Alterações de navegação no footer
+- [x] Alterações de navegação no footer
