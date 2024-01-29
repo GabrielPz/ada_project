@@ -30,6 +30,7 @@ header input[type="text"] {
 
 main {
     padding: 20px;
+    background-color: #f4f4f4;
 }
 
 .container {
@@ -42,16 +43,35 @@ main {
 }
 
 .product {
-    background-color: #f4f4f4;
+    background-color: #fff;
     border: 1px solid #ddd;
+    border-radius: 15px;
     padding: 10px;
     margin-bottom: 15px;
 }
 
 .product h2 {
-    margin-top: 0;
+    margin: 0;
+    text-align: center;
 }
+
+.product div {
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.product img {
+    width: 200px;
+}
+
 
 .product p {
     margin-bottom: 0;
+}
+
+footer{
+    padding: 30px;
+    background-color: #005f6b;
+    text-align: center;
 }
