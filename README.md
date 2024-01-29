@@ -15,6 +15,7 @@ O site Mundo Pet possui as seguintes páginas:
 
 - HTML: Estruturação das páginas web.
 - CSS: Estilização das páginas, proporcionando uma experiência de usuário agradável e responsiva.
+- Bootstrap: Estilização das páginas.
 
 ## Instalação e Execução
 
