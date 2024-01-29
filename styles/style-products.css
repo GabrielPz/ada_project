@@ -37,7 +37,7 @@ main {
 }
 
 .product:hover {
-    background-color: #f0f0f0; /* Change to your desired hover background color */
+    background-color: #dedede; /* Change to your desired hover background color */
     transform: scale(1.05); /* Slightly enlarges the element */
 }
 
