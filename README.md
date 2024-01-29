@@ -26,9 +26,3 @@ git clone https://github.com/GabrielPz/ada_project.git
 cd ada_project
 abrir index.html
 ```
-
-## TO DO
-
-- [] Trocar os textos randomicos
-- [x] Adicionar estilo aos produtos
-- [x] Alterações de navegação no footer
