@@ -8,7 +8,7 @@
 
 .main-login {
     width: 100vw;
-    height: 110vh;
+    height: 100vh;
     background-color: #005f6b;
     display: flex;
     justify-content: center;
@@ -103,6 +103,10 @@
     background: white;
     cursor: pointer;
     box-shadow: 0px 10px 40px -12px ;
+}
+
+button a {
+    text-decoration: none;
 }
 
 @media only screen and (max-width:950px) {
