@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    background-color: #005f6b;
+}
+
+.container .navbar-brand img{
+    height: 6rem;
+}
+
+#cabecalho .nav .nav-link:hover{
+    background-color: #fff;
+    color: #005f6b;
+}
+
+#cabecalho .nav .nav-link, .navbar-brand, .navbar-brand:hover{
+    color: #fff;
+}
+
+.text-colored{
+    color: #00b4cc;
+}
+
+.nav-produtos .nav-link.active, #fale-conosco button{
+    background-color: #005f6b;
+    color: #fff;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
+
+#contact button{
+        background-color: #005f6b;
+        color: #fff;
+}
+
+footer{
+    background-color: #005f6b;
+}
